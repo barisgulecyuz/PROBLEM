@@ -1,0 +1,8 @@
+form1
+Diff1
+
+<<<<<<< HEAD
+login problemi çözüldü
+=======
+madde 1 geliştirmesi
+>>>>>>> onmaddeningelistirilmesi
